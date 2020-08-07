@@ -28,9 +28,8 @@ $storage_types = @("azure")
 # -------------------
 # GCP Account
 # To find out run: gcloud config get-value core/account
-#$GCP_EMAIL_ADDRESS = "xiaoming.wang@lexisnexis.com"
-$GCP_EMAIL_ADDRESS = "xwang2713@gmail.com"
-$USER_INITIAL = "jm"
+$GCP_EMAIL_ADDRESS = "email"
+$USER_INITIAL = "initials"
 
 # -------------------
 # HPCC Platform deployment
