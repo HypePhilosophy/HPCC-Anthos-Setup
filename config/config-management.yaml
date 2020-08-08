@@ -19,7 +19,7 @@ metadata:
 spec:
   #clusterName: <CLUSTER-NAME>
   git:
-    syncRepo: https://github.com/xwang2713/Anthos-Config-Repo
+    syncRepo: https://github.com/HypePhilosophy/HPCC-Anthos-Setup
     syncBranch: master
     secretType: none
     policyDir: "demo-1"
